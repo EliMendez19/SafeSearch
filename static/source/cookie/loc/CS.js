@@ -2711,7 +2711,7 @@ AddLanguage('CS','czech',{
 	"[Upgrade name 816]Web cookies": "Pavoučí keksy",
 	"[Upgrade name 817]Steamed cookies": "Keksy na páře",
 	"[Upgrade name 818]Deep-fried cookie dough": "Fritované keksové těsto",
-	"[Achievement name 0]Wake and bake up - Eli": "Probuďte se a pečte",
+	"[Achievement name 0]Wake and bake": "Probuďte se a pečte",
 	"[Achievement name 1]Making some dough": "Příprava těsta",
 	"[Achievement name 2]So baked right now": "Právě upečeno",
 	"[Achievement name 3]Fledgling bakery": "Nová pekárna",
