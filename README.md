@@ -1,3 +1,3 @@
-# The New SafeSearch Proxy.
+# Introducing: The New SafeSearch Proxy.
 
-Coming Soon.
+### Releasing on Feb. 5th ###
